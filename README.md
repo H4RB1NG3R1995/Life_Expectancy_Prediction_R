@@ -43,7 +43,7 @@ Positively significant: Population, HS.Grad, State Division West North Central
 Negatively significant: Murder, Frost, State Division Middle Atlantic, State Division South Atlantic
 
 Interpretation of the significant variables:
-1. Population: High population increases life expectancy since as a community, people can strive for economic growth of a state by reducing unemployment with the creation of new jobs, construction of new hospitals and schools, local businesses and markets where people can by essentials from, etc.
+1. Population: High population increases life expectancy since as a community, people can strive for economic growth of a state by reducing unemployment with the creation of new jobs, construction of new hospitals and schools, local businesses and markets where people can buy essentials from, etc.
 2. HS.Grad: People who are high school graduates have at least basic education and can search for jobs or start a new business with which they sustain themselves and have a family to provide for. They have a better life expectancy than those who are not high school graduates.
 3. State Division West North Central: The people at this state division have a better life expectancy because of location, weather or other factors.
 4. Murder: Crimes like murder reduces the average life expectancy of a region.
