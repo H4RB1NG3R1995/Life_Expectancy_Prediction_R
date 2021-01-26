@@ -24,6 +24,12 @@ This dataset has 50 observations (one for each US state) and the following 15 va
 Problem Statement:
 Build an analytical model to predict the life expectancy by state using the state statistics. Build the model with all potential variables included (Population, Income, Illiteracy, Murder, HS.Grad, Frost, and Area). Note that you should use the variable "Area" in your model, NOT the variable "state.area".
 
+Here, the dependent variable is Life.Exp which is a continuous variable and all others are independent variables. So MLRM is used for analysis.
+
+For this analysis, state.area, state.abb and state.name are not taken into consideration since these are qualitative variablea and state.area has a similar variable called Area. The variables x and y are dropped since they are redundant from a business perspective.
+
+The model is run on the entire dataset after doing data preprocessing as the number of observations are too low to split it into train and test datasets. The focus here is to identify and interpret which variables are impacting Life Expectancy and not so much on prediction.
+
 After running the MLRM Model we get the following test results:
 1. Multiple R-squared: 80.18%
 2. Adjusted R-squared: 76.88%
