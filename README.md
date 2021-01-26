@@ -26,7 +26,7 @@ Build an analytical model to predict the life expectancy by state using the stat
 
 Here, the dependent variable is Life.Exp which is a continuous variable and all others are independent variables. So MLRM is used for analysis.
 
-For this analysis, state.area, state.abb and state.name are not taken into consideration since these are qualitative variablea and state.area has a similar variable called Area. The variables x and y are dropped since they are redundant from a business perspective.
+For this analysis, state.area, state.abb and state.name are not taken into consideration since these are qualitative variables and state.area has a similar variable called Area. The variables x and y are dropped since they are redundant from a business perspective.
 
 The model is run on the entire dataset after doing data preprocessing as the number of observations are too low to split it into train and test datasets. The focus here is to identify and interpret which variables are impacting Life Expectancy and not so much on prediction.
 
